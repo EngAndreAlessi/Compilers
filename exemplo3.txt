@@ -1,0 +1,8 @@
+inicio
+	int : x , y , z ;
+	leia ( x ) ;
+	leia ( y ) ;
+	z := x + y ;
+	y := ( z * x ) + ( y * z ) ;
+	escreva ( y ) ;
+fim
